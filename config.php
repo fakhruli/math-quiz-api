@@ -1,0 +1,8 @@
+<?php
+DEFINE('DB_USERNAME','root');
+DEFINE('DB_PASSWORD','fakhrul379');
+DEFINE('DB_NAME','db_math');
+DEFINE('DB_HOST','localhost');
+
+// FIREBASE API key
+DEFINE('FIREBASE_API_KEY','AAAAqCfQT7o:APA91bFbJ8QiEBhQp9ZKn3Xh-7CUOIkO4VouJYK3pyS3-sxGolsCSNzygptjPK0cLNyQYWJaOXC9Yf5Ig2_xSsaE4grwqzlNkw9ewzilvbTgpI_eddoM01R4ZkTO-y_FEIG3Bp9f57Mp');
